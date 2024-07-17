@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Labeling using YOLONAS & SAM",
+    "imageSrc": "projects/project.png",
+    "description": "This project aimed to have Significant reduction in latency and an improvement in accuracy",
+    "skills": ["Python", "Deep Learning", "Data Preproccesing"],
+    "source": "https://github.com/Ahmed-Ghoraba/AI-WE/blob/main/Labeling%20using%20YOLONAS%20%26%20SAM.ipynb"
+  }
+]
